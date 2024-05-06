@@ -152,7 +152,7 @@ waitress==2.1.2
     # via myelectricaldata_import (pyproject.toml)
 websocket-client==1.6.2
     # via myelectricaldata_import (pyproject.toml)
-werkzeug==2.2.2
+werkzeug==3.0.3
     # via flask
 yarl==1.9.2
     # via aiohttp
