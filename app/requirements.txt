@@ -148,11 +148,11 @@ urllib3==1.26.12
     #   requests
 uvicorn==0.22.0
     # via myelectricaldata_import (pyproject.toml)
-waitress==2.1.2
+waitress==3.0.1
     # via myelectricaldata_import (pyproject.toml)
 websocket-client==1.6.2
     # via myelectricaldata_import (pyproject.toml)
-werkzeug==2.2.2
+werkzeug==3.0.6
     # via flask
 yarl==1.9.2
     # via aiohttp
